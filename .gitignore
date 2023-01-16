@@ -56,6 +56,9 @@ README.md
 Setup.bat
 Setup.command
 Setup.sh
+.editorconfig
+.uedependencies
+.vsconfig
 
 # Files in game directory to be ignored
 
